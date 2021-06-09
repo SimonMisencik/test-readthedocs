@@ -75,7 +75,6 @@ edit_uri: ""
 
 theme: 
   name: readthedocs
-  custom_dir: overrides
   #features:
   #  - navigation.expand
 extra_css: [extra.css]
