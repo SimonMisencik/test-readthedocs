@@ -69,12 +69,13 @@ nav:
           - CDP: Operational datasets/cdp.md
           - LLDP: Operational datasets/lldp.md
 
-repo_name: SimonMisencik/test-readthedocs
-repo_url: https://github.com/SimonMisencik/test-readthedocs
+repo_name: SimonMisencik/translation-units-docs
+repo_url: https://github.com/SimonMisencik/translation-units-docs
 edit_uri: ""
 
 theme: 
   name: readthedocs
+  # custom_dir: overrides
   #features:
   #  - navigation.expand
 extra_css: [extra.css]
