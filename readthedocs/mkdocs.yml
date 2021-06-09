@@ -1,73 +1,73 @@
 site_name: Translation units docs
 nav:
-    - Home: index.md
-    - Translation framework 101: ../../Translation framework 101.md
+    - Home: readthedocs/docs/index.md
+    - Translation framework 101: Translation framework 101.md
     - Configuration dataset:
       - ACL:
-        - acl: ../../Configuration datasets/acl/acl.md
-        - acl interfaces: ../../Configuration datasets/acl/acl_interfaces.md
+        - acl: Configuration datasets/acl/acl.md
+        - acl interfaces: Configuration datasets/acl/acl_interfaces.md
       - Interface:
-        - ethernet interface: ../../Configuration datasets/interfaces/ethernet_interface.md
-        - l2vlan interface: ../../Configuration datasets/interfaces/l2vlan_interface.md
-        - l3vlan interface: ../../Configuration datasets/interfaces/l3vlan_interface.md
-        - lag interface: ../../Configuration datasets/interfaces/lag_interface.md
+        - ethernet interface: Configuration datasets/interfaces/ethernet_interface.md
+        - l2vlan interface: Configuration datasets/interfaces/l2vlan_interface.md
+        - l3vlan interface: Configuration datasets/interfaces/l3vlan_interface.md
+        - lag interface: Configuration datasets/interfaces/lag_interface.md
       - Ipsec:
-        - ipsec: ../../Configuration datasets/ipsec/ipsec.md
-      - Netflow: ../../Configuration datasets/netflow/netflow_interfaces.md
+        - ipsec: Configuration datasets/ipsec/ipsec.md
+      - Netflow: Configuration datasets/netflow/netflow_interfaces.md
       - Network Instances:
         - L2P2P:
-          - connection point: ../../Configuration datasets/network-instances/l2p2p/connection_point.md
+          - connection point: Configuration datasets/network-instances/l2p2p/connection_point.md
         - L2VPN:
-          - connection point l2vpn: ../../Configuration datasets/network-instances/l2vpn/connection_point_l2vpn.md
+          - connection point l2vpn: Configuration datasets/network-instances/l2vpn/connection_point_l2vpn.md
         - L2VSI:
-          - l2vsi: ../../Configuration datasets/network-instances/l2vsi/l2vsi.md
-          - l2vsicp: ../../Configuration datasets/network-instances/l2vsi/l2vsicp.md
+          - l2vsi: Configuration datasets/network-instances/l2vsi/l2vsi.md
+          - l2vsicp: Configuration datasets/network-instances/l2vsi/l2vsicp.md
         - L3VPN:
-          - l3vpn bgp: ../../Configuration datasets/network-instances/l3vpn/network_instance_l3vpn_bgp.md
-          - l3vpn ospf: ../../Configuration datasets/network-instances/l3vpn/network_instance_l3vpn_ospf.md
+          - l3vpn bgp: Configuration datasets/network-instances/l3vpn/network_instance_l3vpn_bgp.md
+          - l3vpn ospf: Configuration datasets/network-instances/l3vpn/network_instance_l3vpn_ospf.md
         - MPLS:
-          - mpls ldp: ../../Configuration datasets/network-instances/mpls/mpls_ldp.md
-          - mpls rsvp: ../../Configuration datasets/network-instances/mpls/mpls_rsvp.md
-          - mpls te: ../../Configuration datasets/network-instances/mpls/mpls_te.md
-          - mpls tunnel: ../../Configuration datasets/network-instances/mpls/mpls_tunnel.md
+          - mpls ldp: Configuration datasets/network-instances/mpls/mpls_ldp.md
+          - mpls rsvp: Configuration datasets/network-instances/mpls/mpls_rsvp.md
+          - mpls te: Configuration datasets/network-instances/mpls/mpls_te.md
+          - mpls tunnel: Configuration datasets/network-instances/mpls/mpls_tunnel.md
         - Policy forwarding:
-          - pf interfaces: ../../Configuration datasets/network-instances/policy-forwarding/pf_interfaces.md
+          - pf interfaces: Configuration datasets/network-instances/policy-forwarding/pf_interfaces.md
         - Protocols:
-          - bgp: ../../Configuration datasets/network-instances/protocols/bgp.md
-          - isis: ../../Configuration datasets/network-instances/protocols/isis.md
-          - ospf: ../../Configuration datasets/network-instances/protocols/ospf.md
-          - ospfv3: ../../Configuration datasets/network-instances/protocols/ospfv3.md
-          - static: ../../Configuration datasets/network-instances/protocols/static.md
+          - bgp: Configuration datasets/network-instances/protocols/bgp.md
+          - isis: Configuration datasets/network-instances/protocols/isis.md
+          - ospf: Configuration datasets/network-instances/protocols/ospf.md
+          - ospfv3: Configuration datasets/network-instances/protocols/ospfv3.md
+          - static: Configuration datasets/network-instances/protocols/static.md
         - Vlans:
-          - vlan: ../../Configuration datasets/network-instances/vlans/vlan.md
-        - Network Instance: ../../Configuration datasets/network-instances/network_instance.md
-      - Routing policy: ../../Configuration datasets/routing-policy/routing-policy.md
-      - Bcast-containment: ../../Configuration datasets/bcast-containment.md
-      - Cdp: ../../Configuration datasets/cdp.md
-      - Evpn: ../../Configuration datasets/evpn.md
-      - Fdp: ../../Configuration datasets/fdp.md
-      - Hsrp: ../../Configuration datasets/hsrp.md
-      - L2-cft: ../../Configuration datasets/l2-cft.md
-      - Logging: ../../Configuration datasets/logging.md
-      - Oam: ../../Configuration datasets/oam.md
-      - Probes: ../../Configuration datasets/probes.md
-      - Qos: ../../Configuration datasets/qos.md
-      - Snmp: ../../Configuration datasets/snmp.md
-      - Stp: ../../Configuration datasets/stp.md
+          - vlan: Configuration datasets/network-instances/vlans/vlan.md
+        - Network Instance: Configuration datasets/network-instances/network_instance.md
+      - Routing policy: Configuration datasets/routing-policy/routing-policy.md
+      - Bcast-containment: Configuration datasets/bcast-containment.md
+      - Cdp: Configuration datasets/cdp.md
+      - Evpn: Configuration datasets/evpn.md
+      - Fdp: Configuration datasets/fdp.md
+      - Hsrp: Configuration datasets/hsrp.md
+      - L2-cft: Configuration datasets/l2-cft.md
+      - Logging: Configuration datasets/logging.md
+      - Oam: Configuration datasets/oam.md
+      - Probes: Configuration datasets/probes.md
+      - Qos: Configuration datasets/qos.md
+      - Snmp: Configuration datasets/snmp.md
+      - Stp: Configuration datasets/stp.md
     - IETF to OC mapping:
-      - IETF l2p2p local to oc: ../../IETF to OC mapping/ietf_l2p2p_local_to_oc.md
-      - IETF l2p2p remote to oc: ../../IETF to OC mapping/ietf_l2p2p_remote_to_oc.md
-      - IETF l2vpn to oc: ../../IETF to OC mapping/ietf_l2vpn_to_oc.md
-      - IETF l3vpn to oc: ../../IETF to OC mapping/ietf_l3vpn_to_oc.md
+      - IETF l2p2p local to oc: IETF to OC mapping/ietf_l2p2p_local_to_oc.md
+      - IETF l2p2p remote to oc: IETF to OC mapping/ietf_l2p2p_remote_to_oc.md
+      - IETF l2vpn to oc: IETF to OC mapping/ietf_l2vpn_to_oc.md
+      - IETF l3vpn to oc: IETF to OC mapping/ietf_l3vpn_to_oc.md
     - Operational datasets:
       - Network Instances:
         - Protocols:
-          - BGP rib: ../../Operational datasets/Network Instances/Protocols/bgp_rib.md
-          - BGP summary: ../../Operational datasets/Network Instances/Protocols/bgp_summary.md
-          - OSPF summary: ../../Operational datasets/Network Instances/Protocols/ospf_summary.md
+          - BGP rib: Operational datasets/Network Instances/Protocols/bgp_rib.md
+          - BGP summary: Operational datasets/Network Instances/Protocols/bgp_summary.md
+          - OSPF summary: Operational datasets/Network Instances/Protocols/ospf_summary.md
         - Discovery protocols:
-          - CDP: ../../Operational datasets/cdp.md
-          - LLDP: ../../Operational datasets/lldp.md
+          - CDP: Operational datasets/cdp.md
+          - LLDP: Operational datasets/lldp.md
 
 repo_name: SimonMisencik/test-readthedocs
 repo_url: https://github.com/SimonMisencik/test-readthedocs
@@ -82,3 +82,4 @@ use_directory_urls: true
 # extra:
 #   version:
 #     provider: mike
+docs_dir: ''
