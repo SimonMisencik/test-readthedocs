@@ -82,4 +82,3 @@ use_directory_urls: true
 # extra:
 #   version:
 #     provider: mike
-docs_dir: ''
