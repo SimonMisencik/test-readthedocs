@@ -1,6 +1,6 @@
 site_name: Translation units docs
 nav:
-    - Home: readthedocs/docs/index.md
+    - Home: index.md
     - Translation framework 101: Translation framework 101.md
     - Configuration dataset:
       - ACL:
